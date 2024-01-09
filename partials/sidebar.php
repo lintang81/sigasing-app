@@ -32,7 +32,7 @@
                     </a>
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
-                            <a href="#" class="nav-link active">
+                            <a href="?page=lokasiread" class="nav-link active">
                                 <i class="far fa-circle nav-icon"></i>
                                 <p>Lokasi</p>
                             </a>
