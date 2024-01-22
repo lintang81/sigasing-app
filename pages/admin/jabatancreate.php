@@ -10,7 +10,7 @@ if (isset($_POST['button_create'])) {
     $stmt->execute();
     if ($stmt->rowCount() > 0) {
 ?>
-        <div class="aler alert-danger alert-dismissible">
+        <div class="alert alert-danger alert-dismissible">
             <button type="button" class="close" data-dismiss="alert" aria-hidden="true"></button>
             <h5><i class="icon fas fa-ban"></i> Gagal</h5>
             Nama Jabatan sama sudah ada
